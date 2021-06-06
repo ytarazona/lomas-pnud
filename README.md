@@ -13,6 +13,7 @@
 - Analizar y generar gráficos estadísticos de los porcentajes de verdor obtenidos y su correlación con los factores físicos geográficos.
 
 :point_right: Especialista en Teledetección:
+### Yonatan Tarazona Coronel
 
 
 
