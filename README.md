@@ -1,4 +1,4 @@
-# Mapeando las lomas de la provincia de Lima a través de Google Earth Engine - Python <img src="https://www1.undp.org/etc/designs/projectrey/img/pnud-logo-30.svg" align="right" width = 15%/>
+# Mapeando las lomas de la provincia de Lima a través de Google Earth Engine - Python <img src="https://www1.undp.org/etc/designs/projectrey/img/pnud-logo-30.svg" align="right" width = 5%/>
 
 Objetivo general: 
 
