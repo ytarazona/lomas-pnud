@@ -15,5 +15,6 @@
 :point_right: **Especialista en Teledetección**:
 ### Yonatan Tarazona Coronel
 
+Maestría en Teledetección y Sistemas de Información Geográfica (SIG) por la Universidad Autónoma de Barcelona e Ingeniero Geógrafo de la Universidad Nacional Mayor de San Marcos, Perú. Se especializa en aplicaciones de la Observación de la tierra a través de la Teledetección óptica y Radar de Apertura Sintética (SAR). Aunque su área de investigación está relacionado al campo del mapeo de la perturbación forestal a través de algoritmos no estacionales y estacionales, tiene conocimientos sobre técnicas RADAR como InSAR, DinSAR entre otras aplicaciones de radar. Ha trabajado en entidades públicas y privadas, y es co-fundador de American Program in GIS and Remote Sensing (APROGIS), institución científica a la vanguardia y pionera en el campo de la Teledetección. Todos sus logros académicos han sido financiados por diversas agencias internacionales como USAID-USA y PRONABEC-PERU. Actualmente dedica sus actividades en APROGIS, los servicios y a la enseñanza.
 
 
