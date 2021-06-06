@@ -1,4 +1,4 @@
-# Mapeando las lomas de la provincia de Lima a través de Google Earth Engine - Python
+# Mapeando las lomas de la provincia de Lima a través de Google Earth Engine - Python <img src="https://aprogis.com/templates/jl_balder_pro/images/logo2.png" align="right" width = 15%/>
 
 Objetivo general: 
 
